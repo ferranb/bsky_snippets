@@ -1,5 +1,5 @@
 """
-This Python code showing how to post on Bluesky using hashtags that can be linked.
+This Python code shows how to post on Bluesky using hashtags that can be linked.
 """
 
 import re
